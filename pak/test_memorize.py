@@ -1,4 +1,4 @@
-from memoize_cache3 import Memorize
+from pak.memoize_cache3 import Memorize
 
 
 @Memorize
