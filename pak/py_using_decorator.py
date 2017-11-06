@@ -21,7 +21,7 @@ def my_simple_logging_decorator(func):
 
 @my_simple_logging_decorator
 def double(x):
-    'Doubles a number.'
+    "Doubles a number."
     return 2 * x
 
 assert double.__name__ == 'double'
