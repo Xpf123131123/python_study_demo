@@ -2,43 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="845868d8-c538-49e6-9081-d160f1dcad70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lib/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lib/prfilehooks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/Alternate_counting_function_calls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/add_methods_to_class_decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/counting_function_calls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/easy_dump_of_function_arguments_decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/enable_or_disable_decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/generating_deprecation_warning_decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/ignoring_deprecation_warnings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/line_tracing_individual_functions_decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/pre_or_post_conditions_decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/profilehooks_decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/smart_deprecation_warnings_detorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/synchronization_decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache_using/typeEnforcement.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/homework1/hw1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/memoize_cache.py" afterPath="$PROJECT_DIR$/pak/memoize_cache.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/memoize_cache1.py" afterPath="$PROJECT_DIR$/pak/memoize_cache1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/memoize_cache2.py" afterPath="$PROJECT_DIR$/pak/memoize_cache2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/memoize_cache3.py" afterPath="$PROJECT_DIR$/pak/memoize_cache3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/more_lambda.py" afterPath="$PROJECT_DIR$/pak/more_lambda.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/poem.txt" afterPath="$PROJECT_DIR$/pak/poem.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/propertyDefinition.py" afterPath="$PROJECT_DIR$/pak/propertyDefinition.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/propertyDefinition1.py" afterPath="$PROJECT_DIR$/pak/propertyDefinition1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/propertyDefinition2.py" afterPath="$PROJECT_DIR$/pak/propertyDefinition2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/py_using_decorator.py" afterPath="$PROJECT_DIR$/pak/py_using_decorator.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shoplist.data" afterPath="$PROJECT_DIR$/pak/shoplist.data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_memorize.py" afterPath="$PROJECT_DIR$/pak/test_memorize.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_memorize_test_memorize_nested.cache" afterPath="$PROJECT_DIR$/pak/test_memorize_test_memorize_nested.cache" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/using_class.py" afterPath="$PROJECT_DIR$/pak/using_class.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/using_decorators.py" afterPath="$PROJECT_DIR$/pak/using_decorators.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/using_decorators1.py" afterPath="$PROJECT_DIR$/pak/using_decorators1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/using_decorators2.py" afterPath="$PROJECT_DIR$/pak/using_decorators2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/using_decorators3.py" afterPath="$PROJECT_DIR$/pak/using_decorators3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python_study_demo.iml" afterPath="$PROJECT_DIR$/.idea/python_study_demo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hw1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hw1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homework1/hw1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
@@ -68,14 +31,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="backup_ver1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myFirstPackage/backup_ver1.py">
+      <file leaf-file-name="prfilehooks.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lib/prfilehooks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="428">
+              <caret line="807" column="14" lean-forward="false" selection-start-line="807" selection-start-column="14" selection-end-line="807" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -234,21 +195,6 @@
             <path>
               <item name="python_study_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_study_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_study_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="homework1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_study_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="myFirstPackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_study_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_study_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="pak" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -676,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/prfilehooks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10828">
-          <caret line="807" column="14" lean-forward="false" selection-start-line="807" selection-start-column="14" selection-end-line="807" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cache_using/profilehooks_decorator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -793,6 +732,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="61" column="27" lean-forward="false" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/prfilehooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="807" column="14" lean-forward="false" selection-start-line="807" selection-start-column="14" selection-end-line="807" selection-end-column="14" />
           <folding />
         </state>
       </provider>
