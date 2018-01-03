@@ -25,6 +25,8 @@ def checkio_my(data):
     for index,element in enumerate(data):
         if data.count(element) == 1:
             list.remove(element)
+
+    list.insert(0, '')
     #replace this for solution
     return list
 
