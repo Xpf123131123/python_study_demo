@@ -17,6 +17,12 @@ def longest_palindromic(text):
     )
 
 
+import re
+
+r = re.findall(r'[o]{3}', 'baooorrrrrrrrrrrrrrr')
+r = re.split(r'[o]{3}', 'baooorrrrrrrrrrrrrrr')
+print(r)
+
 if __name__ == '__main__':
     assert longest_palindromic("artrartrt") == "rtrartr", "The Longest"
     assert longest_palindromic("abacada") == "aba", "The First"
